@@ -1,2 +1,1 @@
-# Ohmic-Octave
-The Ohmic Octave is a 13-key chromatic synthesizer built on the Arduino Uno architecture, designed for low-latency digital sound generation using PlatformIO and the Wokwi IoT simulator.
+The Ohmic Octave is a high-fidelity 13-note digital synthesizer built on the Arduino Uno platform. Unlike standard 8-note DIY pianos, this system implements a full chromatic scale (including sharps and flats) from C4 to C5. By utilizing internal pull-up resistors and a high-speed scanning loop, the project achieves low-latency tactile feedback, mapping physical button presses to precise musical frequencies for a responsive playing experience.
